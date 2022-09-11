@@ -15,7 +15,7 @@ public class Demo111Application {
 
 	@GetMapping(value = "/getdata")
 	public String getData(){
-		return "welcome";
+		return "welcome2";
 	}
 }
 
